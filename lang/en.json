@@ -1,0 +1,43 @@
+{
+    "welcome": "---------Welcome to the Automatic Teller Machine cash withdraw---------",
+    "presentation": "Here are command list:\n",
+    "choice": "Your choice: ",
+    "unkown": "Unknown command",
+    "options": {
+        "lang": {
+            "command": "lang",
+            "explanation": "Switch for another language",
+            "list": {
+                "en": "english",
+                "fr": "french",
+                "mg": "malagasy"
+            }
+        },
+        "ret": {
+            "command": "retire",
+            "explanation": "Draw money from your account.",
+            "amount": "Amount",
+            "invalidAmout": "Invalid amount",
+            "successMsg": "You successfully retired ",
+            "errorMsg": "You don't have that much money on your account.",
+            "options": {
+                "min": "minimum number",
+                "balance": "balanced number"
+            }
+        },
+        "bal": {
+            "command": "balance",
+            "explanation": "If you wanna know the current balance in your account.",
+            "successMsg": "The balance in your account is "
+        },
+        "add": {
+            "command": "add",
+            "explanation": "Add some money to your account",
+            "successMsg": "Added successfully "
+        },
+        "quit":{
+            "command": "quit",
+            "explanation":  "Leave the ATM"
+        }
+    }
+}

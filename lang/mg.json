@@ -1,0 +1,43 @@
+{
+    "welcome": "---------Tongasoa eto amin'ny GAB---------",
+    "presentation": "Ireto avy ireo kaomandy azonao ampiasaina:\n",
+    "choice": "Ny safidinao: ",
+    "unkown": "Tsy mazava ny tianao hatao",
+    "options": {
+        "lang": {
+            "command": "fiteny",
+            "explanation": "Hisafidy fiteny hafa",
+            "list": {
+                "en": "anglisy",
+                "fr": "frantsay",
+                "mg": "malagasy"
+            }
+        },
+        "ret": {
+            "command": "haka",
+            "explanation": "Raha haka vola ao amin'ny kaontinao.",
+            "amount": "Vola ho alaina",
+            "invalidAmout": "Hamarino ny vola tianao ho alaina",
+            "successMsg": "Tontosa soa aman-tsara ny fakanao vola mitentina ",
+            "errorMsg": "Tsy manana io lela-vola tianao halaina io ianao ao amin'ny kaontinao.",
+            "options": {
+                "min": "taratasim-bola vitsy",
+                "balance": "misy taratasim-bola rehetra mifandanja isa"
+            }
+        },
+        "bal": {
+            "command": "tahiry",
+            "explanation": "Raha te hamantatra ny ambim-bola ao amin'ny kaontinao ianao.",
+            "successMsg": "Ny ambim-bola ao amin'ny kaontinao dia "
+        },
+        "add": {
+            "command": "hanampy",
+            "explanation": "Hanampy ny vola ao amin'ny kaontinao",
+            "successMsg": "Vita soa aman-tsara ny fampidiranao vola mitentina "
+        },
+        "quit":{
+            "command": "hiala",
+            "explanation":  "Hiala ny GAB."
+        }
+    }
+}

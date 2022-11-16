@@ -1,0 +1,42 @@
+{
+    "welcome": "---------Bienvenu sur le service de Guichet Automatique Bancaire---------",
+    "presentation": "Voici les commandes que vous pouvez utiliser:\n",
+    "choice": "Votre choix: ",
+    "unkown": "Choix invalide",
+    "options": {
+        "lang": {
+            "command": "langue",
+            "explanation": "Changer de langue",
+            "list": {
+                "en": "anglais",
+                "fr": "français",
+                "mg": "malagasy"
+            }
+        },
+        "ret": {
+            "command": "retirer",
+            "explanation": "Retirer de l'argent de votre compte.",
+            "amount": "Montant à retirer",
+            "successMsg": "Retrait avec succès du montant de ",
+            "errorMsg": "Vous n'avez pas la somme demandée sur votre compte.",
+            "options": {
+                "min": "minimum de billet",
+                "balance": "nombre de billet balancé"
+            }
+        },
+        "bal": {
+            "command": "solde",
+            "explanation": "Pour connaître votre solde actuel.",
+            "successMsg": "Vous avez actuellement sur votre compte "
+        },
+        "add": {
+            "command": "ajouter",
+            "explanation": "Ajouter une somme d'argent à votre compte",
+            "successMsg": "Versement terminé pour un montant de "
+        },
+        "quit":{
+            "command": "quitter",
+            "explanation":  "Pour quitter le GAB."
+        }
+    }
+}
