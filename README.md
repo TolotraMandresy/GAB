@@ -5,4 +5,3 @@ Work on console to do all GAB service: adding money in an account, draw money, v
 - [RASOLONDRAIBE Tolotra Mandresy](https://github.com/TolotraMandresy), ESIIA3, n°:09
 - [RAKOTOMANANA NOMENJANAHARY Aina](https://github.com/titlyn), ESIIA3, n°:13
 - [HERIMAMPIONONA Tahiry Mariano](https://github.com/TahiryMariano), ESIIA3, n°24  
-&nbsp
